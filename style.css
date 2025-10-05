@@ -1,0 +1,110 @@
+/*Estilos globais*/
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+div{
+    padding: 20px;
+    text-align: center;
+}
+span{
+    font-weight: bold;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+    line-height: 30px;
+}
+/*Estilos Classes Geral*/
+.amarelo{
+    color: darkgoldenrod;
+}
+.azul{
+    color: darkblue;
+}
+/*Estilos Classes Topo*/
+.topo{
+    background-color: darkred;
+    padding: 10px;
+}
+.topo img{
+    width: 200px;
+    height: 100px;
+    vertical-align: middle;
+}
+.topo a{
+    color: white;
+    font-size: 20px;
+    margin: 0 5px;
+}
+/*Estilos Classes conteudo*/
+.img-1{
+    width: 800px;
+    height: 500px;
+    margin-top: 20px;
+}
+.img-2{
+    width: 300px;
+    height: 200px;
+    margin-top: 20px;
+}
+/*Estilos Classes Seviços*/
+.servicos{
+    background-color: lightgray;
+    padding: 10px;
+}
+.servicos ul{
+    width: 300px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: left;
+    font-size: 18px;
+}
+.servicos li{
+    margin-bottom: 10px;
+}
+/*Estilos Classes Sobre*/
+.sobre img{
+    width: 600px;
+    height: 400px;
+    margin-top: 20px;
+}
+.sobre p{
+    margin: 10px, auto;
+    text-align: justify;
+    line-height: 28px;
+}
+/*Estilos Classes Contato*/
+.contato{
+    background-color: lightgray
+}
+.contato ul{
+    list-style-type: none;
+    padding: 0;
+    font-size: 18px;
+}
+.contato li{
+    margin-bottom: 10px;
+}
+.contato a{
+    background-color: #fff;
+    color: darkred;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+    border: 2px solid darkred;
+    border-radius: 5px;
+}
+/*Estilos Classes Rodapé*/
+.rodape{
+    background-color: darkred;
+    color: white;
+    padding: 10px;
+}
+
